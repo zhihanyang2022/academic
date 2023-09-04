@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I recently graduated from Carleton College (Minnesota, USA) with a BA in Mathematics and Statistics. During my undergraduate years, I worked with deep generative models with Prof. Seth Cooper at Northeastern, multi-armed bandit algorithms with Prof. Anna Rafferty at Carleton College, and so on.
 
 ## Research Interests
 
