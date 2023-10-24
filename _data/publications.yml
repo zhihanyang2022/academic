@@ -1,10 +1,12 @@
 main:
 
-  - title: Adversarial Bandits for Drawing Generalizable Conclusions in Non-Adversarial Experiments - An Empirical Study.
-    authors: Yang-Zhihan, Shiyue Zhang, Anna Rafferty
+  - title: Adversarial Bandits for Drawing Generalizable Conclusions in Non-Adversarial Experiments: An Empirical Study
+    authors: <strong>Yang-Zhihan</strong>, Shiyue Zhang, Anna Rafferty
     conference_short: EDM
     conference: International Conference on Educational Data Mining <strong>(EDM)</strong>, 2023.
     pdf: https://files.eric.ed.gov/fulltext/ED624040.pdf
+    talk: https://www.youtube.com/watch?v=Cistqjky01w&t=496s
+    image: ./assets/img/edm2022.png
     notes: Short Paper
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
